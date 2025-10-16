@@ -10,4 +10,4 @@ Future improvement will focus on gaining proficiency in vulnerability scanning, 
 
 ---
 
-[⬅ Back to Home](../index.md)
+[⬅ Back to Home](./index.md)
