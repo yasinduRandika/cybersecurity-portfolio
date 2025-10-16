@@ -1,7 +1,7 @@
 ## 🔗 Quick Navigation
 - [Case SOC336 – Phishing Attack](./cases/soc336/SOC336.md)
 - [Case SOC338 – Lumma Stealer Malware](./cases/soc338/SOC338.md)
-- [Reflection and Key Learning](./docs/reflection.md)
+- [Reflection and Key Learning](.assets/docs/reflection.md)
 
 Automated Incident Response Using LetsDefend SOAR Platform
 
