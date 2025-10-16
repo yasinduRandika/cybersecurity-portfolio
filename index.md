@@ -1,3 +1,8 @@
+## 🔗 Quick Navigation
+- [Case SOC336 – Phishing Attack](./cases/soc336/SOC336.md)
+- [Case SOC338 – Lumma Stealer Malware](./cases/soc338/SOC338.md)
+- [Reflection and Key Learning](./docs/reflection.md)
+
 Automated Incident Response Using LetsDefend SOAR Platform
 
 This portfolio demonstrates practical experience in cybersecurity operations through two case studies conducted in the LetsDefend SOC platform. The investigations involved detecting and responding to phishing and malware incidents using SIEM, SOAR, and EDR tools.
