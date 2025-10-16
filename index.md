@@ -1,4 +1,4 @@
-## Automated Incident Response Using LetsDefend SOAR Platform
+## Cybersecurity Portfolio
 
 This portfolio demonstrates practical experience in cybersecurity operations through two case studies conducted in the LetsDefend SOC platform. The investigations involved detecting and responding to phishing and malware incidents using SIEM, SOAR, and EDR tools.
 
